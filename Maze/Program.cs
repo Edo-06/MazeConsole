@@ -92,7 +92,6 @@ namespace maze
         static void Matriz()
         {
             mazee = new int[size, size];
-            // Inicializa la matriz a 0
             for (int i = 0; i < size; i++)
             {
                 for (int j = 0; j < size; j++)

@@ -12,3 +12,4 @@ D:\U\project\maze\maze\obj\Debug\net8.0\refint\maze.dll
 D:\U\project\maze\maze\obj\Debug\net8.0\maze.pdb
 D:\U\project\maze\maze\obj\Debug\net8.0\maze.genruntimeconfig.cache
 D:\U\project\maze\maze\obj\Debug\net8.0\ref\maze.dll
+D:\U\project\maze\Maze\obj\Debug\net8.0\maze.sourcelink.json
