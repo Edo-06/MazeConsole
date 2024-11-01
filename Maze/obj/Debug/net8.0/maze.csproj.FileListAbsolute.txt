@@ -1,0 +1,14 @@
+D:\U\project\maze\maze\bin\Debug\net8.0\maze.exe
+D:\U\project\maze\maze\bin\Debug\net8.0\maze.deps.json
+D:\U\project\maze\maze\bin\Debug\net8.0\maze.runtimeconfig.json
+D:\U\project\maze\maze\bin\Debug\net8.0\maze.dll
+D:\U\project\maze\maze\bin\Debug\net8.0\maze.pdb
+D:\U\project\maze\maze\obj\Debug\net8.0\maze.GeneratedMSBuildEditorConfig.editorconfig
+D:\U\project\maze\maze\obj\Debug\net8.0\maze.AssemblyInfoInputs.cache
+D:\U\project\maze\maze\obj\Debug\net8.0\maze.AssemblyInfo.cs
+D:\U\project\maze\maze\obj\Debug\net8.0\maze.csproj.CoreCompileInputs.cache
+D:\U\project\maze\maze\obj\Debug\net8.0\maze.dll
+D:\U\project\maze\maze\obj\Debug\net8.0\refint\maze.dll
+D:\U\project\maze\maze\obj\Debug\net8.0\maze.pdb
+D:\U\project\maze\maze\obj\Debug\net8.0\maze.genruntimeconfig.cache
+D:\U\project\maze\maze\obj\Debug\net8.0\ref\maze.dll
