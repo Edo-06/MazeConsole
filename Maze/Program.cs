@@ -5,9 +5,6 @@ namespace maze
 {
     class Program
     {
-
-        
-
         static void Main(string[] args)
         {
             Maze maze = new Maze();
@@ -15,14 +12,21 @@ namespace maze
             while (true)
             {
                 Console.Write("Ingrese el tamaño del laberinto (mayor que 3): " );
-                size = int.Parse(Console.ReadLine());
+                string? input = Console.ReadLine();
 
-                // Asegúrate de que el tamaño sea mayor que 3
-                if (size <= 3) 
+                if(int.TryParse(input, out size))
                 {
-                    Console.WriteLine("El tamaño debe ser mayor que 3." );
-                    continue; 
+                    size = int.Parse(input);
+                    if(size < 3)
+                    {
+                        Console.WriteLine("La entrada debe ser un numero mayor que 3." );
+                    }
                 }
+                else
+                {
+                    Console.WriteLine("La entrada debe ser un numero." );
+                    continue; 
+                }          
                 
                 maze.Generator(size);
                 maze.Print();
